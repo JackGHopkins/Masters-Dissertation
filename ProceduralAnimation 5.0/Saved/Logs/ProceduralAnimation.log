@@ -1688,3 +1688,179 @@ The function might cause unexpected behavior.
 [2022.05.06-15.31.24:576][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mannequin/Character/Mesh/SK_Mannequin_CtrlRig_Auto5
 [2022.05.06-15.31.24:577][493]LogSavePackage: Moving '../../../../../../Users/b8024664/Documents/Masters-Dissertation/ProceduralAnimation 5.0/Saved/SK_Mannequin_CtrlRig_Auto5053E1F04476C96705E05E79001C5AEE7.tmp' to '../../../../../../Users/b8024664/Documents/Masters-Dissertation/ProceduralAnimation 5.0/Saved/Autosaves/Game/Mannequin/Character/Mesh/SK_Mannequin_CtrlRig_Auto5.uasset'
 [2022.05.06-15.31.24:578][493]LogFileHelpers: Auto-saving content packages took 0.080
+[2022.05.06-15.42.35:845][135]LogEditorTransaction: Undo Add Link
+[2022.05.06-15.42.36:141][135]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.06-15.43.15:408][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.05.06-15.43.15:409][673]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.039
+[2022.05.06-15.43.15:410][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Character/Mesh/SK_Mannequin_CtrlRig] ([2] browsable assets)...
+[2022.05.06-15.43.15:410][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/SK_Mannequin_CtrlRig]
+[2022.05.06-15.43.15:485][673]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mannequin/Character/Mesh/SK_Mannequin_CtrlRig_Auto6
+[2022.05.06-15.43.15:486][673]LogSavePackage: Moving '../../../../../../Users/b8024664/Documents/Masters-Dissertation/ProceduralAnimation 5.0/Saved/SK_Mannequin_CtrlRig_Auto645E8096443EEFD5687B29CABB2992631.tmp' to '../../../../../../Users/b8024664/Documents/Masters-Dissertation/ProceduralAnimation 5.0/Saved/Autosaves/Game/Mannequin/Character/Mesh/SK_Mannequin_CtrlRig_Auto6.uasset'
+[2022.05.06-15.43.15:487][673]LogFileHelpers: Auto-saving content packages took 0.078
+[2022.05.06-15.54.51:707][262]LogControlRig: Warning: Instruction[48] 'FRigUnit_GetTransform::Execute': 'Item 'Bone(None)' is not valid.'
+[2022.05.06-15.56.01:131][190]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.56.05:445][681]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.56.20:326][914]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.56.31:841][786]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.56.36:394][298]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.56.38:265][504]LogEditorTransaction: Undo Adding Nodes from Hierarchy
+[2022.05.06-15.56.38:547][504]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.56.38:547][504]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.06-15.56.38:847][506]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.56.44:227][131]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.56.45:927][321]LogEditorTransaction: Undo Adding Nodes from Hierarchy
+[2022.05.06-15.56.46:204][321]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.56.46:204][321]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.06-15.56.46:498][323]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.56.47:974][493]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.56.51:250][852]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.56.56:873][446]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.56.57:418][509]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.00:834][891]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.01:690][983]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.03:572][175]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2022.05.06-15.57.03:640][175]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.03:640][175]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.03:641][175]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.03:676][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.05.06-15.57.03:760][175]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.09:374][774]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.06-15.57.09:432][778]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.09:449][779]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.13:001][139]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.06-15.57.13:006][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-15.57.13:007][139]PIE: New page: PIE session: ThirdPersonExampleMap (6 May 2022, 17:57:13)
+[2022.05.06-15.57.13:050][139]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.06-15.57.13:062][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012068s)
+[2022.05.06-15.57.13:062][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012173s)
+[2022.05.06-15.57.13:062][139]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.06-15.57.13:062][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-15.57.13:063][139]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.06-15.57.13:063][139]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2022.05.06-15.57.13:098][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.05.06-15.57.13:102][139]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.05.06-15.57.13:102][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-15.57.13:102][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-15.57.13:102][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-15.57.13:102][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-15.57.13:102][139]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-15.57.13:102][139]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.06-15.57.13:102][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-15.57.13:102][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-15.57.13:103][139]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-15.57.13:103][139]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-15.57.13:103][139]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-15.57.13:105][139]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.06-15.57.13:126][139]LogAudioMixer: Display: Using Audio Hardware Device PL2473HD (NVIDIA High Definition Audio)
+[2022.05.06-15.57.13:127][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-15.57.13:127][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-15.57.13:127][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-15.57.13:128][139]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.05.06-15.57.13:128][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.05.06-15.57.13:130][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.05.06-15.57.13:130][139]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.05.06-15.57.13:130][139]LogInit: FAudioDevice initialized.
+[2022.05.06-15.57.13:130][139]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2022.05.06-15.57.13:138][139]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.05.06-15.57.13:140][139]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.13:140][139]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.06-16.57.13
+[2022.05.06-15.57.13:140][139]LogWorld: Bringing up level for play took: 0.002237
+[2022.05.06-15.57.13:142][139]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2022.05.06-15.57.13:143][139]PIE: Server logged in
+[2022.05.06-15.57.13:144][139]PIE: Play in editor total start time 0.138 seconds.
+[2022.05.06-15.57.13:201][141]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.25:541][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-15.57.25:541][616]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.06-15.57.25:541][616]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-15.57.25:541][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-15.57.25:554][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-15.57.25:559][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-15.57.25:591][616]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.06-15.57.25:592][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.05.06-15.57.25:593][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.05.06-15.57.25:596][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-15.57.25:598][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.05.06-15.57.25:661][617]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.05.06-15.57.25:737][617]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.06-15.57.28:205][857]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.41:287][298]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.06-15.57.41:293][298]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.05.06-15.57.41:293][298]LogPlayLevel: [PlayLevel] Compiling ThirdPerson_AnimBP before play...
+[2022.05.06-15.57.41:331][298]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.41:332][298]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.41:332][298]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.41:385][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.05.06-15.57.41:388][298]LogPlayLevel: PlayLevel: Blueprint regeneration took 95 ms (1 blueprints)
+[2022.05.06-15.57.41:389][298]PIE: New page: PIE session: ThirdPersonExampleMap (6 May 2022, 17:57:41)
+[2022.05.06-15.57.41:389][298]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.06-15.57.41:393][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004090s)
+[2022.05.06-15.57.41:393][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.004161s)
+[2022.05.06-15.57.41:393][298]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.06-15.57.41:393][298]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-15.57.41:393][298]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.06-15.57.41:393][298]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2022.05.06-15.57.41:425][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.05.06-15.57.41:426][298]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.05.06-15.57.41:426][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-15.57.41:426][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-15.57.41:426][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-15.57.41:426][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-15.57.41:426][298]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-15.57.41:426][298]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.06-15.57.41:426][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-15.57.41:426][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-15.57.41:427][298]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-15.57.41:427][298]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-15.57.41:427][298]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-15.57.41:428][298]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.06-15.57.41:449][298]LogAudioMixer: Display: Using Audio Hardware Device PL2473HD (NVIDIA High Definition Audio)
+[2022.05.06-15.57.41:449][298]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-15.57.41:449][298]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-15.57.41:449][298]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-15.57.41:450][298]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.05.06-15.57.41:450][298]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.05.06-15.57.41:451][298]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.05.06-15.57.41:451][298]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.05.06-15.57.41:451][298]LogInit: FAudioDevice initialized.
+[2022.05.06-15.57.41:451][298]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2022.05.06-15.57.41:460][298]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.05.06-15.57.41:462][298]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.41:462][298]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.06-16.57.41
+[2022.05.06-15.57.41:463][298]LogWorld: Bringing up level for play took: 0.001998
+[2022.05.06-15.57.41:464][298]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2022.05.06-15.57.41:465][298]PIE: Server logged in
+[2022.05.06-15.57.41:466][298]PIE: Play in editor total start time 0.174 seconds.
+[2022.05.06-15.57.41:515][300]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.54:876][902]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.57:784][251]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.58:952][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-15.57.58:952][387]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.06-15.57.58:952][387]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-15.57.58:952][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-15.57.58:963][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-15.57.58:969][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-15.57.59:001][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-15.57.59:001][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.05.06-15.57.59:003][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.05.06-15.57.59:008][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.05.06-15.57.59:070][388]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.05.06-15.57.59:195][388]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.06-15.57.59:219][390]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.57.59:231][391]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-15.58.25:204][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.05.06-15.58.25:206][725]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.036
+[2022.05.06-15.58.25:207][725]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([2] browsable assets)...
+[2022.05.06-15.58.25:222][725]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2022.05.06-15.58.25:222][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2022.05.06-15.58.25:248][725]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto7
+[2022.05.06-15.58.25:249][725]LogSavePackage: Moving '../../../../../../Users/b8024664/Documents/Masters-Dissertation/ProceduralAnimation 5.0/Saved/ThirdPerson_AnimBP_Auto7B7844783416319CAE1FF459823AA59BD.tmp' to '../../../../../../Users/b8024664/Documents/Masters-Dissertation/ProceduralAnimation 5.0/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto7.uasset'
+[2022.05.06-15.58.25:251][725]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Mannequin/Character/Mesh/SK_Mannequin_CtrlRig] ([2] browsable assets)...
+[2022.05.06-15.58.25:257][725]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Mannequin/Character/Mesh/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig]
+[2022.05.06-15.58.25:257][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/SK_Mannequin_CtrlRig]
+[2022.05.06-15.58.25:343][725]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mannequin/Character/Mesh/SK_Mannequin_CtrlRig_Auto7
+[2022.05.06-15.58.25:344][725]LogSavePackage: Moving '../../../../../../Users/b8024664/Documents/Masters-Dissertation/ProceduralAnimation 5.0/Saved/SK_Mannequin_CtrlRig_Auto7A22E0E9A4BEA091ADBED14B21354B214.tmp' to '../../../../../../Users/b8024664/Documents/Masters-Dissertation/ProceduralAnimation 5.0/Saved/Autosaves/Game/Mannequin/Character/Mesh/SK_Mannequin_CtrlRig_Auto7.uasset'
+[2022.05.06-15.58.25:345][725]LogFileHelpers: Auto-saving content packages took 0.139
+[2022.05.06-15.58.25:784][728]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-16.10.25:076][875]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-16.10.25:099][876]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
+[2022.05.06-16.10.25:148][877]LogPBIKSolver: Warning: PBIK: effector is on bone that is not on or below root bone.
