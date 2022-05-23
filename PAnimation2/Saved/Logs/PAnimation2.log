@@ -1749,3 +1749,101 @@ Script Stack (0 frames):
 [2022.05.23-19.28.56:626][769]LogSavePackage: Moving '../../../../../../Users/b8024664/Documents/Masters-Dissertation/PAnimation2/Saved/CR_Mannequin_BasicFootIKD796866F4EBE80FD0965F7BBC863F378.tmp' to '../../../../../../Users/b8024664/Documents/Masters-Dissertation/PAnimation2/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset'
 [2022.05.23-19.28.56:646][769]AssetCheck: New page: Asset Save: CR_Mannequin_BasicFootIK
 [2022.05.23-19.28.56:646][769]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK
+[2022.05.23-19.29.41:032][ 62]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (High Definition Audio Device), InstanceID=1
+[2022.05.23-19.29.41:032][ 62]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7360
+[2022.05.23-19.29.41:363][ 62]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{aedf23a2-8e58-4831-9b25-3ef3395a6aa6}, Name=Headphones (High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.15
+[2022.05.23-19.29.41:363][ 62]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.23-19.29.41:368][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.23-19.29.55:702][201]BlueprintLog: New page: Compile ABP_Manny
+[2022.05.23-19.29.55:820][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.05.23-19.29.57:187][338]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2022.05.23-19.29.57:188][338]LogSavePackage: Moving '../../../../../../Users/b8024664/Documents/Masters-Dissertation/PAnimation2/Saved/ABP_Manny64C7667D4E2077FDE5A5E6A0F12EB6BE.tmp' to '../../../../../../Users/b8024664/Documents/Masters-Dissertation/PAnimation2/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2022.05.23-19.29.57:204][338]AssetCheck: New page: Asset Save: ABP_Manny
+[2022.05.23-19.29.57:205][338]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2022.05.23-19.30.01:289][732]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.23-19.30.01:289][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.23-19.35.11:984][175]LogSlate: Took 0.005198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.23-19.35.16:647][680]BlueprintLog: New page: Compile ABP_Manny
+[2022.05.23-19.35.16:780][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.05.23-19.35.17:115][692]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2022.05.23-19.35.17:116][692]LogSavePackage: Moving '../../../../../../Users/b8024664/Documents/Masters-Dissertation/PAnimation2/Saved/ABP_Manny7FD63CCE4A2295A13CA8D7904F3B8255.tmp' to '../../../../../../Users/b8024664/Documents/Masters-Dissertation/PAnimation2/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2022.05.23-19.35.17:133][692]AssetCheck: New page: Asset Save: ABP_Manny
+[2022.05.23-19.35.17:133][692]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2022.05.23-19.36.22:445][647]BlueprintLog: New page: Compile ABP_Manny
+[2022.05.23-19.36.22:575][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.05.23-19.36.23:084][675]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2022.05.23-19.36.23:085][675]LogSavePackage: Moving '../../../../../../Users/b8024664/Documents/Masters-Dissertation/PAnimation2/Saved/ABP_MannyF4A742214AE5DB8E13F56996A64EFF8A.tmp' to '../../../../../../Users/b8024664/Documents/Masters-Dissertation/PAnimation2/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2022.05.23-19.36.23:100][675]AssetCheck: New page: Asset Save: ABP_Manny
+[2022.05.23-19.36.23:100][675]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2022.05.23-19.36.47:038][248]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.23-19.36.47:045][248]LogWorldPartition: Display: GenerateStreaming started...
+[2022.05.23-19.36.47:045][248]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.05.23-19.36.47:045][248]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.23-19.36.47:045][248]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.05.23-19.36.47:045][248]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.05.23-19.36.47:045][248]LogWorldPartition: Display: GetPartitionedActors took 53 us
+[2022.05.23-19.36.47:046][248]LogWorldPartition: Display: GenerateStreaming took 268 us
+[2022.05.23-19.36.47:046][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.23-19.36.47:046][248]PIE: New page: PIE session: ThirdPersonMap (23 May 2022, 21:36:47)
+[2022.05.23-19.36.47:081][248]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.23-19.36.47:085][248]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.05.23-19.36.47:085][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003913s)
+[2022.05.23-19.36.47:085][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003992s)
+[2022.05.23-19.36.47:085][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.23-19.36.47:085][248]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.05.23-19.36.47:085][248]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.23-19.36.47:086][248]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.05.23-19.36.47:086][248]LogWorldPartition: Display: WorldPartition initialize took 931 us
+[2022.05.23-19.36.47:087][248]LogPlayLevel: PIE: World Init took: (0.001810s)
+[2022.05.23-19.36.47:144][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.05.23-19.36.47:148][248]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.23-19.36.47:148][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.23-19.36.47:148][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.23-19.36.47:148][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.23-19.36.47:148][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.23-19.36.47:148][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.23-19.36.47:148][248]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.23-19.36.47:148][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.23-19.36.47:148][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.23-19.36.47:148][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.23-19.36.47:148][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.23-19.36.47:149][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.23-19.36.47:150][248]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.23-19.36.47:172][248]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2022.05.23-19.36.47:172][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.23-19.36.47:172][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.23-19.36.47:172][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.23-19.36.47:173][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.05.23-19.36.47:173][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.05.23-19.36.47:175][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.05.23-19.36.47:175][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.05.23-19.36.47:175][248]LogInit: FAudioDevice initialized.
+[2022.05.23-19.36.47:175][248]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2022.05.23-19.36.47:187][248]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.23-19.36.47:188][248]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.05.23-20.36.47
+[2022.05.23-19.36.47:188][248]LogWorld: Bringing up level for play took: 0.001416
+[2022.05.23-19.36.47:190][248]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2022.05.23-19.36.47:193][248]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.05.23-19.36.47:193][248]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.23-19.36.47:193][248]PIE: Server logged in
+[2022.05.23-19.36.47:194][248]PIE: Play in editor total start time 0.15 seconds.
+[2022.05.23-19.37.11:621][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.23-19.37.11:621][788]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.23-19.37.11:622][788]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.23-19.37.11:622][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.23-19.37.11:634][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.23-19.37.11:642][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.23-19.37.11:698][788]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.23-19.37.11:698][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.05.23-19.37.11:699][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.05.23-19.37.11:703][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.23-19.37.11:706][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.05.23-19.37.11:742][789]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.05.23-19.37.36:458][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.05.23-19.37.36:460][987]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.060
+[2022.05.23-19.37.36:460][987]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Quinn] ([2] browsable assets)...
+[2022.05.23-19.37.36:552][987]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn]
+[2022.05.23-19.37.36:552][987]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Quinn]
+[2022.05.23-19.37.36:557][987]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ABP_Quinn_Auto3
+[2022.05.23-19.37.36:558][987]LogSavePackage: Moving '../../../../../../Users/b8024664/Documents/Masters-Dissertation/PAnimation2/Saved/ABP_Quinn_Auto38C0A4C6A42902102BFBDC18835F866E0.tmp' to '../../../../../../Users/b8024664/Documents/Masters-Dissertation/PAnimation2/Saved/Autosaves/Game/Characters/Mannequins/Animations/ABP_Quinn_Auto3.uasset'
+[2022.05.23-19.37.36:559][987]LogFileHelpers: Auto-saving content packages took 0.099
