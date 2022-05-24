@@ -2380,3 +2380,79 @@ Script Stack (0 frames):
 [2022.05.24-12.02.47:559][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.05.24-12.02.47:597][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
 [2022.05.24-12.02.47:632][585]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.05.24-12.28.30:444][525]LogDerivedDataCache: C:/Users/b8024664/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.064 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.24-12.35.29:452][469]BlueprintLog: New page: Compile ABP_Manny
+[2022.05.24-12.35.29:528][469]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2022.05.24-12.35.29:530][469]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2022.05.24-12.35.29:531][469]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Quinn_C already exists. Remove duplicates from the animation graph for this class.
+[2022.05.24-12.35.29:533][469]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Quinn_C already exists. Remove duplicates from the animation graph for this class.
+[2022.05.24-12.35.29:604][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.05.24-12.35.30:131][500]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2022.05.24-12.35.30:132][500]LogSavePackage: Moving '../../../../../../Users/b8024664/Documents/Masters-Dissertation/PAnimation2/Saved/ABP_Manny568B8BFF44B558742818F293153F9592.tmp' to '../../../../../../Users/b8024664/Documents/Masters-Dissertation/PAnimation2/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2022.05.24-12.35.30:146][500]AssetCheck: New page: Asset Save: ABP_Manny
+[2022.05.24-12.35.30:146][500]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2022.05.24-12.35.31:542][639]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.24-12.35.31:549][639]LogWorldPartition: Display: GenerateStreaming started...
+[2022.05.24-12.35.31:549][639]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.05.24-12.35.31:549][639]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.24-12.35.31:549][639]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.05.24-12.35.31:549][639]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.05.24-12.35.31:549][639]LogWorldPartition: Display: GetPartitionedActors took 53 us
+[2022.05.24-12.35.31:549][639]LogWorldPartition: Display: GenerateStreaming took 257 us
+[2022.05.24-12.35.31:549][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.24-12.35.31:549][639]PIE: New page: PIE session: ThirdPersonMap (24 May 2022, 14:35:31)
+[2022.05.24-12.35.31:581][639]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.24-12.35.31:585][639]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.05.24-12.35.31:585][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003927s)
+[2022.05.24-12.35.31:585][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004008s)
+[2022.05.24-12.35.31:585][639]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.24-12.35.31:585][639]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.05.24-12.35.31:586][639]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.24-12.35.31:586][639]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.05.24-12.35.31:587][639]LogWorldPartition: Display: WorldPartition initialize took 938 us
+[2022.05.24-12.35.31:587][639]LogPlayLevel: PIE: World Init took: (0.001875s)
+[2022.05.24-12.35.31:627][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.05.24-12.35.31:632][639]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.24-12.35.31:632][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.24-12.35.31:632][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.24-12.35.31:632][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.24-12.35.31:632][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.24-12.35.31:632][639]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.24-12.35.31:632][639]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.24-12.35.31:632][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.24-12.35.31:632][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.24-12.35.31:633][639]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.24-12.35.31:633][639]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.24-12.35.31:633][639]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.24-12.35.31:635][639]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.24-12.35.31:656][639]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2022.05.24-12.35.31:656][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.24-12.35.31:656][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.24-12.35.31:657][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.24-12.35.31:657][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.05.24-12.35.31:657][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.05.24-12.35.31:658][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.05.24-12.35.31:658][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.05.24-12.35.31:658][639]LogInit: FAudioDevice initialized.
+[2022.05.24-12.35.31:658][639]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2022.05.24-12.35.31:671][639]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.24-12.35.31:672][639]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.05.24-13.35.31
+[2022.05.24-12.35.31:673][639]LogWorld: Bringing up level for play took: 0.001478
+[2022.05.24-12.35.31:674][639]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2022.05.24-12.35.31:676][639]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Quinn_C already exists. Remove duplicates from the animation graph for this class.
+[2022.05.24-12.35.31:677][639]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.05.24-12.35.31:677][639]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.24-12.35.31:678][639]PIE: Server logged in
+[2022.05.24-12.35.31:678][639]PIE: Play in editor total start time 0.131 seconds.
+[2022.05.24-12.35.53:671][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.24-12.35.53:671][989]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.05.24-12.35.53:671][989]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-12.35.53:672][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.24-12.35.53:682][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.24-12.35.53:688][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.24-12.35.53:727][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.24-12.35.53:727][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.05.24-12.35.53:729][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.05.24-12.35.53:732][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.24-12.35.53:735][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.05.24-12.35.53:769][990]LogPlayLevel: Display: Destroying online subsystem :Context_25
